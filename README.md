@@ -7,28 +7,10 @@ Este repositório contém um conjunto de scripts em Python que auxiliam na anál
 
 ## Funcionalidades
 
-- **Divisão de Colunas**: Uma função que recebe listas de pressão e temperatura, calcula a razão entre elas e trata exceções como:
-  - Tamanhos diferentes das listas (ValueError)
-  - Divisão por zero (ZeroDivisionError)
-
-- **Verificação de Pontuação**: Uma função que avalia uma lista de palavras e verifica se há pontuações não tratadas, lançando uma exceção caso encontre.
-
-- **Conversão de Listas para Float**: Uma função que converte elementos de uma lista para o tipo float, tratando erros de entrada inválida.
-
-## Estrutura do Repositório
-
-/analisador_fungos
-
-│ 
-
-├── README.md # Este arquivo 
-
-  ├── analise_fungos.py # Script principal para análise de dados 
-  
-  └── requisitos.txt # Dependências do projeto
+- ***Este Repositorio possui varios exercicios de codigo em python com as suas respectivas resoluções, que abrange desde FUNCÇÔES até ESTRUTURA DE DADOS.***
+- ***Abaixo estão alguns exemplos de como rodar e estudar os codigos apresentados na pasta de arquivos: Hora_da_pratica.ipynb.***
 
 
-  
 ## Instalação
 
 Para executar os scripts, você precisará ter o Python instalado em sua máquina. Você pode instalar as dependências necessárias usando o `pip`. 
