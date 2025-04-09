@@ -1,13 +1,10 @@
 # Python_Desafios_de_Codigo_02
 Esse desafio de Código da Formação Cientista de Dados do Programa Oracle One, abrange Funções e Estruturas de Dados em Python
 
-# Análise de Dados de Experimentos com Fungos
-
-Este repositório contém um conjunto de scripts em Python que auxiliam na análise de dados coletados durante experimentos sobre o comportamento de uma cultura de fungos. O objetivo é avaliar a relação entre pressão e temperatura em um ambiente controlado, ajudando a determinar as melhores condições para os testes.
 
 ## Funcionalidades
 
-- ***Este Repositorio possui varios exercicios de codigo em python com as suas respectivas resoluções, que abrange desde FUNCÇÔES até ESTRUTURA DE DADOS.***
+- ***Este Repositorio possui varios exercicios de codigo em python com as suas respectivas resoluções, que abrange desde FUNÇÔES até ESTRUTURA DE DADOS.***
 - ***Abaixo estão alguns exemplos de como rodar e estudar os codigos apresentados na pasta de arquivos: Hora_da_pratica.ipynb.***
 
 
