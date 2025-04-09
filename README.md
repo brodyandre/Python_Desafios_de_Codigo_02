@@ -17,7 +17,7 @@ pip install -r requisitos.txt
 
 ```
 
-## Uso
+## Alguns exemplos de uso
 
 Divisão de Colunas
 
